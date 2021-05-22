@@ -1,0 +1,83 @@
+.attribution { 
+    font-size: 11px; 
+    text-align: center;
+     position: relative;
+     
+}
+.attribution a { color: hsl(228, 45%, 44%); }
+body{
+    text-align: left;
+    background-color:  hsl(0, 0%, 95%);
+}
+
+.sedans{
+    background-color: hsl(31, 77%, 52%);
+    position: absolute;
+    left: 170px;
+    border-top-left-radius: 5%;
+    border-bottom-left-radius: 5%;
+}
+
+.SUV{
+    background-color: hsl(184, 100%, 22%);
+    position: absolute;
+    left: 500px;
+}
+
+.Luxury{
+    background-color: hsl(179, 100%, 13%);
+    position: absolute;
+    left: 820px;
+    border-top-right-radius: 5%;
+    border-bottom-right-radius: 5%;
+}
+
+p{
+   color: hsla(0, 0%, 100%, 0.75);
+   font-family: 'Lexend Deca', sans-serif;
+   font-weight: 400;
+   padding: 0px 50px 50px 50px;
+   margin: 0;
+   letter-spacing: 2px;
+   
+}
+h2{
+    color: hsl(0, 0%, 95%);
+    font-family: 'Big Shoulders Display', cursive;
+    margin-left: 50px;
+    font-size: 45px;
+}
+
+.cards div{    
+    width: 330px;
+    height: 500px; 
+    margin-left: 80px;  
+    margin-top: 100px;
+}
+
+svg{
+    margin-left: 50px;
+    margin-top: 50px;
+}
+button{
+    margin-left: 50px;
+    margin-top: 20px;
+    background-color:  hsl(0, 0%, 95%);
+    border: none;
+    border-radius: 3.5rem / 100%;
+    padding: 15px 32px;
+    text-align: center;
+    font-size: 16px;
+    font-family: 'Lexend Deca', sans-serif;
+    
+}
+
+.sedans button{
+    color: hsl(31, 77%, 52%);
+}
+.SUV button{
+    color: hsl(184, 100%, 22%);
+}
+.Luxury button{
+    color:  hsl(179, 100%, 13%);;
+}
