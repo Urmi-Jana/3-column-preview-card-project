@@ -31,7 +31,7 @@ A screenshot of the solution I made.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/desktop-optimized-design-using-html-and-css-8LGGA8gft
 - Live Site URL: https://urmi-jana.github.io/3-column-preview-card-project
 
 ## My process
